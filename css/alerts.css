@@ -1,0 +1,12 @@
+small{
+    display: block;
+    color: red;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.visible {
+
+    opacity: 1;
+
+}
