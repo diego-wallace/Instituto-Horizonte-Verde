@@ -5,28 +5,28 @@ const projects = [
     {
         title:"Plantando o Futuro",
         text:"Projeto voltado ao plantio de árvores em áreas urbanas e recuperação de espaços degradados.",
-        image:"../assets/plantio.jpg",
+        image:"../assets/plantio.webp",
         alt:"Duas mãos mexendo a terra envolta de um broto."
     },
 
     {
         title:"Escola Sustentável",
         text:"Programa educacional que leva palestras e oficinas sobre sustentabilidade para escolas públicas.",
-        image:"../assets/escola-sustentavel.jpg",
+        image:"../assets/escola-sustentavel.webp",
         alt:"Crianças regando plantas."
     },
 
     {
         title:"Hortas Comunitárias",
         text:"Criação e manutenção de hortas em bairros para incentivo à alimentação saudável e integração da comunidade.",
-        image:"../assets/hortas-comunitarias.jpg",
+        image:"../assets/hortas-comunitarias.webp",
         alt:"Imagem de uma horta com pessoas tocando as plantas."
     },
 
     {
         title:"Recicla Mais",
         text:"Campanha de conscientização e coleta seletiva em comunidades.",
-        image:"../assets/reciclagem.jpg",
+        image:"../assets/reciclagem.webp",
         alt:"Um homem carregando uma caixa com símbolo de reciclagem cheia de garrafas."
     }
 

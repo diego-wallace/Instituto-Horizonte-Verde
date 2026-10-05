@@ -1,11 +1,11 @@
 import { renderizarCards } from "./cards.js";
 import { carregarCadastros, ultimoCadastro, salvarCadastro } from "./storage.js";
+import "../css/style.css";
+import "../css/alerts.css";
 
 //#region SPA
 //div principal
 const main = document.getElementById("idMain");
-
-
 
 //#region Criando páginas
 //Criando página inicial
@@ -20,7 +20,7 @@ homePage.innerHTML = `
 
             <div class="divSobre">
 
-                <img class="imagem-principal" src="../assets/imagem-ong.jpg" alt="Duas mãos em formato de concha segurando uma quantia de terra e um broto de planta.">
+                <img class="imagem-principal" src="../assets/imagem-ong.webp" alt="Duas mãos em formato de concha segurando uma quantia de terra e um broto de planta.">
                         
                 <div class="divTextoSobre">
                         
